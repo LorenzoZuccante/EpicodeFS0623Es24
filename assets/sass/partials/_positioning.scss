@@ -1,0 +1,26 @@
+@import "../bootstrap/bootstrap.scss";
+body {
+    
+}
+#iNav {
+    position: absolute;
+    top: 0.3em;
+    right: 5em;
+}
+#imgNav {
+    position: absolute;
+    top: 0.8em;
+    right: 6em;
+}
+.heroPositioning {
+    flex-basis: 50%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.heroImg {
+    flex-basis: 50%;
+}
+.btn {
+    margin-left: 1%;
+    margin-right: 1%;
+}
